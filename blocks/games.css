@@ -1,0 +1,85 @@
+.novelties-games {
+  background-color: #fff;
+
+}
+
+.novelties-games__block {
+  padding-bottom: 89px;
+  padding-top: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.novelties-games__action {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  gap: 49px
+}
+
+.novelties-games__list {
+  margin-bottom: 61px;
+  height: 100%;
+}
+
+
+.novelties-games__item {
+  display: flex;
+  gap: 55px;
+  overflow: hidden;
+
+}
+
+.novelties-games__icon {
+  background-color: #fff;
+  padding: 12px 0;
+
+}
+
+.novelties-games__pic {
+  max-width: 460px;
+  min-height: 333px;
+  border: 1px solid #000;
+  background-color: #010101;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+
+}
+
+.novelties-games__item--pic .novelties-games__pic {
+  object-fit: contain;
+
+}
+
+.novelties-games__title {
+  font-size: 36px;
+  display: block;
+  margin-bottom: 27px;
+  font-weight: bold;
+  color: #000;
+
+}
+
+.novelties-games__desc {
+  font-size: 16px;
+  line-height: 27px;
+  color: #303030;
+  display: block;
+  margin-bottom: 35px;
+
+}
+
+.novelties-games__btn.button {
+  padding: 17px 38px;
+
+}
+
+.novelties-games__btn:hover {
+  color: #fff;
+  background-color: #8F00FF;
+
+}

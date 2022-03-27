@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
+
+.header__block {
+  padding-bottom: 128px;
+  padding-top: 26px;
+  
+}
+
+

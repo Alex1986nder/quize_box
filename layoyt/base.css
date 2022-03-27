@@ -1,0 +1,78 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.42;
+  color: #fff;
+  background: #17191C;
+  /* font: 300 16px/1.42 'Open Sans', Arial, sans-serif (краткая запись)*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+
+}
+
+
+* { 
+  box-sizing: border-box;
+
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-style: normal;
+
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+
+}
+
+ul li {
+  list-style: none;
+
+}
+
+img {
+  max-width: 100%;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+
+
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+
+
+}
+
+.main-content {
+  flex: 1 0 auto;
+
+}
+

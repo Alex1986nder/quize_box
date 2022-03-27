@@ -1,0 +1,7 @@
+.wrapper__welcome-page {
+  background: url('../img/welcome.jpg') center center no-repeat;
+  background-attachment: scroll;
+  background-origin: border-box;
+
+}
+

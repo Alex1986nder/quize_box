@@ -1,0 +1,30 @@
+
+.preview__box {
+  margin-bottom: 193px;
+}
+.preview__block {
+  max-width: 637px;
+ 
+
+}
+
+.preview__text {
+  font-size: 60px;
+  line-height: 65px;
+  margin-bottom: 21px;
+  font-weight: bold;
+
+}
+
+.preview__desc {
+  margin-bottom: 75px;
+  font-size: 21px;
+
+
+}
+
+.preview__btn.button {
+  background-color: #8F00FF;
+  color: #fff;
+  transition: .5s;
+}

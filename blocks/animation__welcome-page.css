@@ -1,0 +1,50 @@
+.animation__welcome-page {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  animation: welcomeAnimation 2.6s infinite;
+  animation-fill-mode: both;
+  animation-delay: 1s;
+  animation-timing-function: cubic-bezier(.6, -0.28, .74, .05);
+}
+
+
+@keyframes welcomeAnimation {
+  0% {
+    opacity: 0;
+  }
+
+  17% {
+    opacity: 1;
+    transform: translateY(-50px);
+  }
+
+  30% {
+
+    transform: translateY(0);
+  }
+
+  31% {
+    transform: translateY(-25px);
+  }
+
+  45% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(0);
+
+  }
+
+}
+
+
+.animation__welcome-page:hover {
+  animation: none;
+}
+
+
+

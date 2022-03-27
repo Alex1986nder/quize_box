@@ -1,0 +1,16 @@
+
+.offer__head {
+  display: flex;
+  flex: 1;
+  padding: 114px 0;
+  font-size: 48px;
+  font-weight: bold;
+  max-width: 383px;
+}
+
+.offer {
+  background-image: url('../img/offer.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}

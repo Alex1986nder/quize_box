@@ -1,0 +1,81 @@
+.pastgames {
+  min-height: 500px;
+
+}
+
+.pastgames__block {
+  margin-bottom: 145px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pastgames__head {
+  padding-bottom: 51px;
+  font-size: 36px;
+  font-weight: bold;
+
+}
+
+.pastgames__info {
+  padding-bottom: 51px;
+  display: flex;
+
+
+}
+
+.pastgames__action {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.pastgames__item {
+  display: flex;
+  box-sizing: border-box;
+  border-radius: 5px;
+  overflow: hidden;
+  max-width: 557px;
+  flex-direction: column;
+  flex: 1;
+  position: relative;
+}
+
+.pastgames__pic {
+  display: flex;
+position: relative;
+}
+
+.pastgames__link {
+  display: flex;
+  color: #fff;
+  flex: 1;
+  flex-direction: column;
+  position: absolute;
+  left: 30px;
+  bottom: 26px;
+}
+
+
+.data {
+  display: inline-block;
+  margin-bottom: 10px;
+
+}
+
+.pastgames__title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 7px;
+  display: block;
+
+}
+
+.pastgames__desc {
+  font-size: 16px;
+  display: inline-block;
+  line-height: 21px;
+  margin: 0;
+  max-width: 477px;
+  width: 100%;
+
+}

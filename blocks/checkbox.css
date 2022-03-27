@@ -1,0 +1,13 @@
+.checkbox {
+  min-width: 67px;
+  min-height: 37px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  background-color: #E7E7E7;
+  flex: 1;
+  padding: 9px;
+  font-size: 13px;
+
+}

@@ -1,0 +1,28 @@
+.menu__list {
+  min-width: 391px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+
+/* .menu__link:active {
+  color: #fff;
+} */
+
+.menu__item--aktiv .menu__link {
+  color: #8F00FF;
+  
+}
+
+.menu__link{
+  color: #fff;
+  
+}
+
+.menu__link:hover {
+  color: #8F00FF;
+ transition: .5s;
+}
+

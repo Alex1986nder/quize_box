@@ -1,0 +1,110 @@
+
+.novelties__block {
+  margin-bottom: 126px;
+
+}
+
+.novelties__head {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 50px;
+
+}
+
+.novelties__img {
+  margin-left: 9px;
+  vertical-align: middle;
+}
+
+.novelties__action {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.novelties__item {
+
+  max-width: 362px;
+  min-height: 449px;
+  border: 1px solid black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+
+
+.novelties__icon {
+  background-color: #fff;
+  padding: 32px 20px 26px;
+  box-sizing: border-box;
+
+}
+
+.novelties__info {
+  margin-bottom: 17px;
+  display: inline-block;
+
+}
+
+.novelties__pic {
+  width: 100%;
+  height: 144px;
+  border: 1px solid #000;
+  background-color: #010101;
+  display: block;
+  object-fit: cover;
+  object-position: top;
+  
+}
+
+.novelties__title {
+  font-size: 24px;
+  display: block;
+  margin-bottom: 21px;
+  font-weight: bold;
+  color: #000;
+
+}
+
+
+.novelties__iсon-min {
+  color: #000;
+  display: inline-block;
+  font-size: 16px;
+margin-right: 54px;
+}
+
+.novelties__icon-matters {
+  color: #000;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+.novelties__info-clock {
+  width: 26px;
+  margin-right: 10px;
+
+}
+
+.novelties__info-questions {
+  margin-right: 10px;
+  width: 26px;
+
+}
+
+.novelties__desc {
+  font-size: 14px;
+  line-height: 21px;
+  color: #303030;
+  display: block;
+  margin-bottom: 23px;
+
+}
+
+.novelties__btn.button {
+padding: 18px 29px;
+
+}

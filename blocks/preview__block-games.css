@@ -1,0 +1,14 @@
+
+.preview__block-games {
+  max-width: 637px;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.preview__text-games {
+  font-size: 72px;
+  font-weight: bold;
+  margin-bottom: 99px;
+}

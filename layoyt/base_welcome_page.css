@@ -1,0 +1,16 @@
+.wrapper__welcome-page {
+  display: flex;
+  min-height: 100%;
+
+}
+
+.container__welcome-page {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 67px;
+  max-width: 591px;
+  width: 100%;
+}

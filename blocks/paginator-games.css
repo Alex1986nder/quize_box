@@ -1,0 +1,29 @@
+
+.paginator-games {
+  color: #17191C;
+
+}
+
+.paginator-games .paginator__display {
+  color: #17191C;
+
+}
+
+
+
+.paginator-games .paginator__item-link {
+  color: #17191C;
+  
+}
+
+.paginator__item--active .paginator__item-link {
+  background: #8F00FF;
+  color: #fff;
+
+}
+
+.paginator__item--hover .paginator__item-link:hover {
+  background: #8F00FF;
+  color: #fff;
+
+}

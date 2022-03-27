@@ -1,0 +1,25 @@
+.site-contact__dropdown {
+  background-image: url('../img/график.png');
+  background-repeat: no-repeat;
+  max-height: 95px;
+  max-width: 160px;
+  display: flex;
+  flex: 1;
+  padding: 22px 19px;
+  opacity: 0;
+  transition: opacity 1s;
+  position: absolute;
+  top: 100%;
+  right: -10000px;
+
+}
+
+
+.site-contacts__schedul:hover .site-contact__dropdown {
+  right: 0;
+  opacity: 1;
+}
+
+li b {
+  font-weight: bold;
+}

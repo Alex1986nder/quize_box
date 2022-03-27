@@ -1,0 +1,10 @@
+.logo__welcome-page {
+  font-size: 72px;
+  font-weight: bold;
+  min-height: 127px;
+  background: linear-gradient(45deg, #8F00FF 25%, #148CFF 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #8F00FF;
+  background-clip: text;
+}

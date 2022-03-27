@@ -1,0 +1,30 @@
+.breadcrumbs__list {
+  display: flex;
+  max-width: 119px;
+
+}
+
+.breadcrumbs__link {
+  color: #9A9A9A;
+  font-size: 14px;
+  text-decoration: underline;
+
+}
+
+.breadcrumbs__item--activ {
+  font-weight: bold;
+
+}
+
+.breadcrumbs__slash {
+  padding: 0 7px;
+  color: #9A9A9A;
+
+}
+
+/* .breadcrumbs__item--activ::before {
+  padding: 0 7px;
+  color: #9A9A9A;
+  content: '\2044';
+  font-size: 14px;
+} */

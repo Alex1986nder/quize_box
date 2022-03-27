@@ -1,0 +1,46 @@
+.site-contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.site-contacts__number {
+  font-size: 26px;
+  font-style: normal;
+  flex: 1;
+}
+
+.site-contacts__schedul {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-end; */
+
+
+}
+
+.site-contacts__title {
+  font-size: 13px;
+  text-decoration: underline;
+  flex: 1;
+  color: #98A4A8;
+  display: inline-flex;
+
+}
+
+.site-contacts__title:hover {
+  color: #FFFFFF;
+  transition: .5s;
+  
+}
+
+.site-contact__time {
+  color: #1E1F20;
+  font-size: 13px;
+  font-style: normal;
+  display: flex;
+  flex: 1;
+
+}
+

@@ -1,0 +1,9 @@
+.main__page-wrapper {
+  background: url('../img/r-15.png'), url('../img/Rectangle-14.png'), url('../img/rectangle-13.png'), url('../img/fon.png'), url('../img/bg-top.jpg'), url('../img/backgr-bottom.png'), url('../img/line.png');
+  background-blend-mode: normal, normal, normal, color, normal, normal, normal;
+  background-position: center top, center top 582px, center top 1762px, center center, center top, center bottom 146px, center bottom 145px;
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat, no-repeat, no-repeat, no-repeat;
+  background-attachment: scroll;
+  background-origin: border-box;
+
+}

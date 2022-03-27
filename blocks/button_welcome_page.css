@@ -1,0 +1,15 @@
+.btn__welcome-page {
+  padding: 18px 58px;
+
+}
+
+.button--prymary.button:hover {
+  color:#fff;
+  background-color: #741BBA;
+
+}
+
+.button--prymary.button {
+  background-color: #8F00FF;
+  color: #fff ;
+}

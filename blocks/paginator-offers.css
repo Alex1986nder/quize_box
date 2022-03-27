@@ -1,0 +1,21 @@
+.paginator-offers {
+  padding-top: 59px;
+
+}
+
+.paginator-offers .paginator__display {
+
+  color: #17191C;
+}
+
+.paginator-offers .paginator__item-link {
+  color: #17191C;
+
+}
+
+.paginator__item--active .paginator__item-link {
+  background: #8F00FF;
+  color: #fff;
+
+}
+

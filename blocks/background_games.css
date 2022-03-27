@@ -1,0 +1,12 @@
+
+.main__page-wrapper-games {
+  background-image: url('../img/games-fon.png'), url('../img/games-pic.png');
+  background-position: center bottom, center top;
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: scroll;
+  background-origin: border-box;
+  background-clip: content-box;
+  max-width: 1920px;
+  margin: 0px auto;
+
+}

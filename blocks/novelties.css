@@ -1,6 +1,6 @@
 
 .novelties__block {
-  margin-bottom: 126px;
+  margin-bottom: 123px;
 
 }
 
@@ -43,8 +43,9 @@
 }
 
 .novelties__info {
-  margin-bottom: 17px;
-  display: inline-block;
+  margin-bottom: 23px;
+  display: flex;
+ 
 
 }
 
@@ -71,14 +72,16 @@
 
 .novelties__iсon-min {
   color: #000;
-  display: inline-block;
+  display: flex;
+  align-items: center;
   font-size: 16px;
 margin-right: 54px;
 }
 
 .novelties__icon-matters {
   color: #000;
-  display: inline-block;
+  display: flex;
+  align-items: center;
   font-size: 16px;
 
 }

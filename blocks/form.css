@@ -95,7 +95,12 @@
   border: 1px solid transparent;
   border-radius: 5px;
   font-size: 18px;
+  outline: none;
 
+}
+
+.form__input:focus {
+  border-color: #8F00FF;
 }
 
 .form__button {
@@ -116,10 +121,13 @@
   font-size: 18px;
   padding: 29px 30px;
   resize: none;
+  outline: none;
+
 }
 
 button {
   cursor: pointer;
+
 }
 
 .form__btn {

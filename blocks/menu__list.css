@@ -3,8 +3,8 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  
 }
-
 
 
 /* .menu__link:active {
@@ -16,13 +16,22 @@
   
 }
 
-.menu__link{
+.menu__link {
   color: #fff;
-  
+  display: flex;
 }
 
-.menu__link:hover {
+
+
+.menu__list:hover .menu__item--aktiv {
+  color: inherit;
+}
+
+.menu__item .menu__link:hover, .menu__item--aktiv {
   color: #8F00FF;
- transition: .5s;
+  transition: .5s;
 }
 
+.menu__link.menu__item--aktiv:hover {
+  color: #8F00FF;
+}
